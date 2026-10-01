@@ -1,7 +1,5 @@
-#1234567890qwerty
-qwertyhdjsncjfeobfqfjb
-
-
+#qwerty
+#쪼아요
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
@@ -29,8 +27,7 @@ def quicksort(l, r, nums):
         quicksort(pi+1, r, nums)  # Recursively sorting the right values
     return nums
  
-#1111111111111122222222222333333333344444444444555555555
-#poiuytrewq
+#DORO
  
 example = [4, 5, 1, 2, 3]
 result = [1, 2, 3, 4, 5]
