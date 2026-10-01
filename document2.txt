@@ -1,10 +1,10 @@
-// C program for Merge Sort
+// C program for DORO
+
 #include <stdio.h>
 #include <stdlib.h>
 
-// Merges two subarrays of arr[].
-// First subarray is arr[l..m]
-// Second subarray is arr[m+1..r]
+//DORO
+
 void merge(int arr[], int l,
 		int m, int r)
 {
@@ -110,3 +110,6 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+// Merges two subarrays of arr[].
+// First subarray is arr[l..m]
+// Second subarray is arr[m+1..r]
